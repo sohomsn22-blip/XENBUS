@@ -1301,7 +1301,7 @@ const ContactSection = () => {
                   <Radio className="w-5 h-5 text-[#00f0ff] shrink-0" />
                   <div>
                     <p className="text-white mb-1">Secure Line</p>
-                    <a href="tel:+919051813776" className="hover:text-[#00f0ff] transition-colors">(+91) 9051813776</a>
+                    <a href="tel:+919831337197" className="hover:text-[#00f0ff] transition-colors">(+91) 9831337197</a>
                   </div>
                 </div>
 
@@ -1309,7 +1309,7 @@ const ContactSection = () => {
                   <Database className="w-5 h-5 text-[#00f0ff] shrink-0" />
                   <div>
                     <p className="text-white mb-1">Digital Comms</p>
-                    <a href="mailto:sohomsn22@gmail.com" className="hover:text-[#00f0ff] transition-colors">sohomsn22@gmail.com</a>
+                    <a href="mailto:contactus@xenbusindia.com" className="hover:text-[#00f0ff] transition-colors">contactus@xenbusindia.com</a>
                   </div>
                 </div>
               </div>
